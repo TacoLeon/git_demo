@@ -3,3 +3,6 @@ demo file
 aaa edit by develop
 
 bbb @@@@@@@@@@
+
+conflict by master
+
